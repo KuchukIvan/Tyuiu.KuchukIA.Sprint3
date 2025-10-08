@@ -11,7 +11,7 @@ namespace Tyuiu.KuchukIA.Sprint3.Task0.V21.Lib
             {
                 sum = sum + ((Math.Pow(value, i) + 0.25) * Math.Sin(i));
             }
-            return sum;
+            return Math.Round(sum, 3);
 
         }
     }
