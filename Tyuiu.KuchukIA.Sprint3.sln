@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KuchukIA.Sprint3.Task0.V21.Test", "Tyuiu.KuchukIA.Sprint3.Task0.V21.Test\Tyuiu.KuchukIA.Sprint3.Task0.V21.Test.csproj", "{39BCF1D4-CBC2-4513-87E8-BA8C4F3A40C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KuchukIA.Sprint3.Task0.V21.Lib", "Tyuiu.KuchukIA.Sprint3.Task0.V21.Lib\Tyuiu.KuchukIA.Sprint3.Task0.V21.Lib.csproj", "{AFBC3D6E-8FC9-456D-AF3E-03FF1DAD867D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{DEC282B9-6A6E-40B2-B31B-D1B53D5CE363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

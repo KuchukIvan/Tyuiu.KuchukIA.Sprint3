@@ -24,9 +24,9 @@ internal class Program
         int startValue = 1;
         int stopValue = 13;
 
-        Console.WriteLine("a = " + value);
-        Console.WriteLine("Стартовое значение равно " + startValue);
-        Console.WriteLine("Конечное значение равно " + stopValue);
+        Console.WriteLine("Значение a = " + value);
+        Console.WriteLine("Стартовое значение = " + startValue);
+        Console.WriteLine("Конечное значение = " + stopValue);
 
 
         Console.WriteLine();
@@ -35,7 +35,7 @@ internal class Program
         Console.WriteLine("***********************************************************************************************");
 
 
-        Console.WriteLine("Сумма ряда равна " + ds.GetSumSeries(value, startValue, stopValue));
+        Console.WriteLine("Сумма ряда = " + ds.GetSumSeries(value, startValue, stopValue));
 
         Console.ReadKey();
 
