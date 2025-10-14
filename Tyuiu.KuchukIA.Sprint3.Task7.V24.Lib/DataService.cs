@@ -15,7 +15,7 @@ namespace Tyuiu.KuchukIA.Sprint3.Task7.V24.Lib
             for (int x = startValue; x <= stopValue; x++)
             {
                 y = (Math.Sin(x) / (x + 1.2)) - (Math.Sin(x) * 2) - (2 * x);
-                res[count] = y;
+                res[count] = Math.Round(y, 2);
                 count++;
             }
 
